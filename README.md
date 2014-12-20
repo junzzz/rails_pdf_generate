@@ -6,3 +6,5 @@ from http://wkhtmltopdf.org/downloads.html
 gem "wicked_pdf"
 bundle install
 ```
+
+test
